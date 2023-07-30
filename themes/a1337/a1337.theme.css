@@ -52,7 +52,7 @@ body::before {
     /* Enable or disable the flicker overlay effect. To disable remove the 
     comment decorators. To re-enable, add comment decorators. */
     
-    /* animation: initial; */
+     animation: initial; 
 }
 
 body::after {
